@@ -40,7 +40,7 @@ This repository contains:
 
 | Investigation                    | Topic                                 |
 | -------------------------------- | ------------------------------------- |
-| Phishing Infrastructure Analysis | Google impersonation phishing domain  |
+| Phishing Infrastructure Analysis | Repository: phishing-infrastructure-analysis|
 | Malicious Domain Investigation   | DNS & IP infrastructure analysis      |
 | Social Media Investigation       | Fake profile / impersonation analysis |
 
