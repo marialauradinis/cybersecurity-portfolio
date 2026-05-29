@@ -1,26 +1,49 @@
- # Penetration Testing Portfolio
+ # Maria Laura Dinis – OSINT & Threat Intelligence Portfolio
 
-This repository documents my practical learning journey in offensive security through the Hack The Box Penetration Tester path and real-world vulnerability research based on public HackerOne reports.
+Cyber Security graduate focused on OSINT, cyber threat intelligence, phishing infrastructure analysis, and digital investigations.
 
-## Focus Areas
-- Web Application Security (OWASP Top 10)
-- Penetration Testing Methodology
-- Reconnaissance & Enumeration
-- Vulnerability Analysis & Exploitation
-- Privilege Escalation (Linux & Windows basics)
+This repository contains:
 
-## Tools & Technologies
-- Burp Suite
-- Nmap
-- Linux
-- SQL Injection Testing
-- XSS Testing
-- Authentication & Access Control Testing
+* phishing investigations
+* malicious domain analysis
+* threat intelligence research
+* infrastructure analysis
+* OSINT case studies
+* investigative reporting exercises
 
-## Repository Structure
-- `htb-writeups/` → Hack The Box labs and machine writeups
-- `hackerone-research/` → Analysis of real-world vulnerability reports
-- `pentest-reports/` → Simulated penetration testing reports
-- `notes/` → Study notes and methodology references
+## Current Focus
 
-This portfolio is actively being developed to strengthen practical penetration testing and application security skills.
+* Open Source Intelligence (OSINT)
+* Threat Intelligence
+* Phishing Infrastructure Analysis
+* Fraud & Risk Investigation
+* Digital Investigations
+
+## Current Training
+
+* TCM Security – OSINT Fundamentals
+* CompTIA Security+
+* Hack The Box investigations & defensive labs
+
+## Tools Used
+
+* VirusTotal
+* URLScan.io
+* Shodan
+* WHOIS & DNS analysis
+* SecurityTrails
+* Google Dorking
+* Burp Suite
+* Nmap
+
+## Portfolio Projects
+
+| Investigation                    | Topic                                 |
+| -------------------------------- | ------------------------------------- |
+| Phishing Infrastructure Analysis | Google impersonation phishing domain  |
+| Malicious Domain Investigation   | DNS & IP infrastructure analysis      |
+| Social Media Investigation       | Fake profile / impersonation analysis |
+
+## Disclaimer
+
+All investigations are conducted using publicly available information for educational and defensive security purposes only.
